@@ -1,0 +1,167 @@
+Report for Institution Code ZUEC, Resource zuec-pis
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 405
+Number of records retrieved in searches: 3455
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 388
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 12
+	Date: 2018-03-19 ; Times: 1
+	Date: 2018-03-16 ; Times: 1
+	Date: 2018-03-07 ; Times: 3
+	Date: 2018-03-14 ; Times: 3
+	Date: 2018-03-01 ; Times: 2
+	Date: 2018-03-02 ; Times: 60
+	Date: 2018-03-03 ; Times: 7
+	Date: 2018-03-04 ; Times: 3
+	Date: 2018-03-05 ; Times: 57
+	Date: 2018-03-28 ; Times: 5
+	Date: 2018-03-29 ; Times: 2
+	Date: 2018-03-26 ; Times: 82
+	Date: 2018-03-09 ; Times: 1
+	Date: 2018-03-27 ; Times: 76
+	Date: 2018-03-25 ; Times: 2
+	Date: 2018-03-22 ; Times: 11
+	Date: 2018-03-23 ; Times: 5
+	Date: 2018-03-20 ; Times: 62
+	Date: 2018-03-21 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Serrasalmus specificepithet:marginatus" ; Times: 5
+	Query: "genus:Labrisomus specificepithet:nuchipinnis" ; Times: 2
+	Query: "genus:Myleus specificepithet:setiger" ; Times: 5
+	Query: "genus:Poecilia specificepithet:reticulata" ; Times: 5
+	Query: "genus:Porichthys specificepithet:porosissimus" ; Times: 5
+	Query: "genus:Melichthys specificepithet:niger" ; Times: 5
+	Query: "genus:Serrasalmus specificepithet:manueli" ; Times: 5
+	Query: "genus:Hypleurochilus specificepithet:pseudoaequipinnis" ; Times: 5
+	Query: "genus:Catoprion specificepithet:mento" ; Times: 5
+	Query: "locality:Los Amigos country:&#34;Peru&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Leporinus specificepithet:fasciatus" ; Times: 5
+	Query: "genus:Pygocentrus specificepithet:piraya" ; Times: 5
+	Query: "Astronotus ocellatus 1" ; Times: 2
+	Query: "genus:Mylossoma specificepithet:duriventre" ; Times: 5
+	Query: "catalognumber:7360" ; Times: 1
+	Query: "genus:Serrasalmus specificepithet:maculatus" ; Times: 5
+	Query: "genus:Rhaphiodon specificepithet:vulpinus" ; Times: 5
+	Query: "genus:Acyrtops specificepithet:beryllinus" ; Times: 5
+	Query: "genus:Risor specificepithet:ruber" ; Times: 5
+	Query: "specificepithet:pridisi genus:Elacatinus" ; Times: 2
+	Query: "genus:Pimelodus specificepithet:blochii" ; Times: 5
+	Query: "catalognumber:5477" ; Times: 1
+	Query: "genus:Tometes" ; Times: 4
+	Query: "genus:Elops specificepithet:saurus" ; Times: 2
+	Query: "genus:Potamotrygon specificepithet:sp" ; Times: 2
+	Query: "Xiphophorus maculatus" ; Times: 1
+	Query: "genus:Myloplus specificepithet:rhomboidalis" ; Times: 5
+	Query: "genus:Potamotrygon  specificepithet:sp" ; Times: 3
+	Query: "genus:Tomicodon specificepithet:fasciatus" ; Times: 5
+	Query: "genus:Amazonsprattus specificepithet:scintilla" ; Times: 5
+	Query: "genus:Opsanus specificepithet:beta" ; Times: 2
+	Query: "genus:Pseudanos specificepithet:trimaculatus" ; Times: 5
+	Query: "Centropomus undecimalis" ; Times: 8
+	Query: "Osteoglossum bicirrhosum" ; Times: 1
+	Query: "Monocirrhus polyacanthus" ; Times: 2
+	Query: "genus:Myloplus specificepithet:rubripinnis" ; Times: 5
+	Query: "genus:Aphos specificepithet:porosus" ; Times: 5
+	Query: "genus:Ossubtus specificepithet:xinguense" ; Times: 5
+	Query: "genus:Leporinus specificepithet:taeniatus" ; Times: 5
+	Query: "genus:Helogenes specificepithet:marmoratus" ; Times: 5
+	Query: "genus:Serrasalmus specificepithet:rhombeus" ; Times: 5
+	Query: "genus:Achirus specificepithet:lineatus" ; Times: 2
+	Query: "Trichomycterus variegatus" ; Times: 1
+	Query: "dianema longibarbis" ; Times: 1
+	Query: "genus:Colomesus specificepithet:tocantinensis" ; Times: 2
+	Query: "xiphophorus hellerii" ; Times: 1
+	Query: "Hoplosternum littorale 1" ; Times: 1
+	Query: "genus:Bagre specificepithet:marinus" ; Times: 5
+	Query: "genus:Stephanolepis specificepithet:hispidus" ; Times: 2
+	Query: "genus:Henonemus" ; Times: 4
+	Query: "genus:Osteoglossum specificepithet:bicirrhosum" ; Times: 5
+	Query: "genus:Lagocephalus specificepithet:laevigatus" ; Times: 5
+	Query: "genus:Malacoctenus specificepithet:triangulatus" ; Times: 2
+	Query: "genus:Thoracocharax specificepithet:stellatus" ; Times: 5
+	Query: "genus:Cynodon specificepithet:gibbus" ; Times: 5
+	Query: "genus:Metynnis specificepithet:luna" ; Times: 5
+	Query: "genus:Pygocentrus specificepithet:nattereri" ; Times: 5
+	Query: "specificepithet:figaro genus:Elacatinus" ; Times: 1
+	Query: "genus:Mola specificepithet:mola" ; Times: 5
+	Query: "serrasalmus marginatus" ; Times: 1
+	Query: "genus:Hypoclinemus specificepithet:mentalis" ; Times: 5
+	Query: "genus:Chalceus specificepithet:macrolepidotus" ; Times: 5
+	Query: "genus:Eigenmannia specificepithet:macrops" ; Times: 5
+	Query: "genus:Pseudotylosurus specificepithet:angusticeps" ; Times: 5
+	Query: "genus:Prochilodus specificepithet:nigricans" ; Times: 5
+	Query: "Mylossoma duriventre" ; Times: 1
+	Query: "genus:Canthigaster specificepithet:rostrata" ; Times: 2
+	Query: "Tometes" ; Times: 1
+	Query: "genus:Kryptolebias" ; Times: 1
+	Query: "genus:Anostomus specificepithet:ternetzi" ; Times: 6
+	Query: "phalloceros caudimaculatus" ; Times: 1
+	Query: "genus:Gramma specificepithet:loreto" ; Times: 2
+	Query: "Cichlasoma bimaculatum 1" ; Times: 1
+	Query: "genus:Corydoras specificepithet:sp." ; Times: 5
+	Query: "genus:Sphoeroides specificepithet:testudineus" ; Times: 5
+	Query: "genus:Rhamdia specificepithet:quelen" ; Times: 5
+	Query: "Characidium laterale" ; Times: 1
+	Query: "genus:Acnodon specificepithet:normani" ; Times: 5
+	Query: "Dicrossus maculatus" ; Times: 1
+	Query: "genus:Bunocephalus specificepithet:coracoideus" ; Times: 5
+	Query: "genus:Leporinus specificepithet:trifasciatus" ; Times: 5
+	Query: "genus:Eigenmannia specificepithet:virescens" ; Times: 5
+	Query: "genus:Sphoeroides specificepithet:spengleri" ; Times: 2
+	Query: "genus:Roeboides specificepithet:affinis" ; Times: 5
+	Query: "genus:Canthigaster specificepithet:figueiredoi" ; Times: 5
+	Query: "Cnesterodon decemmaculatus" ; Times: 1
+	Query: "genus:Pygopristis specificepithet:denticulata" ; Times: 5
+	Query: "genus:Leporinus specificepithet:ortomaculatus" ; Times: 5
+	Query: "genus:Leporellus specificepithet:vittatus" ; Times: 5
+	Query: "genus:Anostomus specificepithet:anostomus" ; Times: 6
+	Query: "genus:Colomesus  specificepithet:tocantinensis" ; Times: 3
+	Query: "genus:Serrasalmus specificepithet:spilopleura" ; Times: 5
+	Query: "Ocyurus chrysurus" ; Times: 2
+	Query: "genus:Leporinus specificepithet:agassizii" ; Times: 5
+	Query: "genus:Charax" ; Times: 4
+	Query: "Hemigrammus erythrozonus" ; Times: 1
+	Query: "genus:Acanthostracion specificepithet:quadricornis" ; Times: 5
+	Query: "genus:Serrasalmus specificepithet:brandtii" ; Times: 5
+	Query: "genus:Serrasalmus specificepithet:eigenmanni" ; Times: 5
+	Query: "genus:Exodon specificepithet:paradoxus" ; Times: 5
+	Query: "genus:Roeboides specificepithet:myersii" ; Times: 5
+	Query: "genus:Pseudanos specificepithet:gracilis" ; Times: 5
+	Query: "genus:Pristobrycon specificepithet:striolatus" ; Times: 5
+	Query: "Hyphessobrycon bifasciatus" ; Times: 1
+	Query: "genus:Serrasalmus specificepithet:elongatus" ; Times: 5
+	Query: "genus:Piaractus specificepithet:brachypomus" ; Times: 5
+	Query: "genus:Colomesus specificepithet:psittacus" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1284 download events in this period)
+Total number of records downloaded: 4
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Monocirrhus polyacanthus" ; Times: 1
+	Query: "Saltator" ; Times: 1
+
+
+End of report.
