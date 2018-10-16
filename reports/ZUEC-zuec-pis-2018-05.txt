@@ -1,0 +1,72 @@
+Report for Institution Code ZUEC, Resource zuec-pis
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 39
+Number of records retrieved in searches: 170
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 34
+	Country: Colombia ; Times: 4
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-14 ; Times: 1
+	Date: 2018-05-04 ; Times: 11
+	Date: 2018-05-11 ; Times: 4
+	Date: 2018-05-10 ; Times: 10
+	Date: 2018-05-01 ; Times: 2
+	Date: 2018-05-29 ; Times: 4
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-24 ; Times: 2
+	Date: 2018-05-25 ; Times: 1
+	Date: 2018-05-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:dimerus family:Cichlidae" ; Times: 1
+	Query: "genus:Caquetaia" ; Times: 2
+	Query: "specificepithet:temporalis family:Cichlidae" ; Times: 1
+	Query: "Vandellia cirrhosa" ; Times: 3
+	Query: "specificepithet:dimerus genus:Cichlasoma" ; Times: 2
+	Query: "specificepithet:facetus genus:Australoheros" ; Times: 1
+	Query: "Thayeria boehlkei" ; Times: 1
+	Query: "catalognumber:9219" ; Times: 1
+	Query: "genus:Acaronia" ; Times: 1
+	Query: "Trichomycterus hasemani" ; Times: 1
+	Query: "genus:Laetacara" ; Times: 2
+	Query: "Trichomycterus mirissumba" ; Times: 2
+	Query: "specificepithet:thayeri family:Cichlidae" ; Times: 1
+	Query: "genus:Australoheros" ; Times: 1
+	Query: "xiphophorus hellerii" ; Times: 3
+	Query: "genus:Nannacara" ; Times: 1
+	Query: "Trichomycterus immaculatus" ; Times: 1
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:guyanae family:Cichlidae" ; Times: 2
+	Query: "specificepithet:efasciatus family:Cichlidae" ; Times: 1
+	Query: "catalognumber:9336" ; Times: 1
+	Query: "genus:Hypselecara" ; Times: 1
+	Query: "specificepithet:mirificus family:Cichlidae" ; Times: 1
+	Query: "specificepithet:flavilabris family:Cichlidae" ; Times: 1
+	Query: "catalognumber:9932" ; Times: 1
+	Query: "specificepithet:curviceps genus:Laetacara" ; Times: 1
+	Query: "specificepithet:mirificus genus:Mesonauta family:Cichlidae" ; Times: 1
+	Query: "genus:Australoheros family:Cichlidae" ; Times: 2
+	Query: "guar" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1178 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
