@@ -1,0 +1,113 @@
+Report for Institution Code ZUEC, Resource zuec-pis
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 48
+Number of records retrieved in searches: 314
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Brazil ; Times: 5
+	Country: Argentina ; Times: 1
+	Country: Peru ; Times: 6
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-15 ; Times: 1
+	Date: 2018-08-19 ; Times: 1
+	Date: 2018-08-27 ; Times: 16
+	Date: 2018-08-31 ; Times: 4
+	Date: 2018-08-09 ; Times: 1
+	Date: 2018-08-08 ; Times: 2
+	Date: 2018-08-21 ; Times: 4
+	Date: 2018-08-20 ; Times: 8
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-17 ; Times: 2
+	Date: 2018-08-14 ; Times: 1
+	Date: 2018-08-06 ; Times: 1
+	Date: 2018-08-13 ; Times: 1
+	Date: 2018-08-28 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Hypostomus ericae" ; Times: 1
+	Query: "Balistes capriscus" ; Times: 2
+	Query: "gbifdatasetid:c0e8647d-dd4b-4300-8ad1-8c362fb21d75" ; Times: 1
+	Query: "Brycon hilarii" ; Times: 1
+	Query: "Leporinus trifasciatus" ; Times: 1
+	Query: "Hypostomus garmani" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 3
+	Query: "Canthidermis maculata mappable:1" ; Times: 1
+	Query: "Balistes lima" ; Times: 1
+	Query: "Canthidermis maculata" ; Times: 1
+	Query: "Balistes lima mappable:1" ; Times: 1
+	Query: "Brycon amazonicus" ; Times: 1
+	Query: "Chaetobranchus flavescens" ; Times: 1
+	Query: "Cichlasoma dimerus" ; Times: 1
+	Query: "serrasalmus spilopleura" ; Times: 1
+	Query: "genus:Trigonectes" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 1
+	Query: "Balistes vetula" ; Times: 1
+	Query: "catalognumber:7064" ; Times: 1
+	Query: "Balistes capriscus mappable:1" ; Times: 2
+	Query: "bodoquena" ; Times: 3
+	Query: "Melichthys niger" ; Times: 1
+	Query: "13353" ; Times: 1
+	Query: "Melichthys niger mappable:1" ; Times: 1
+	Query: "Cichla monoculus" ; Times: 1
+	Query: "Rhytiodus microlepis" ; Times: 1
+	Query: "Hypostomus alatus" ; Times: 1
+	Query: "Xanthichthys ringens mappable:1" ; Times: 2
+	Query: "Odontaspis ferox" ; Times: 1
+	Query: "Ituglanis" ; Times: 2
+	Query: "Balistes vetula mappable:1" ; Times: 1
+	Query: "Hypostomus auroguttatus" ; Times: 1
+	Query: "Hypostomus luetkeni" ; Times: 2
+	Query: "&#34;Hypostomus alatus&#34;" ; Times: 1
+	Query: "Gymnocorymbus ternetzi" ; Times: 1
+	Query: "13171" ; Times: 1
+	Query: "Hypostomus lima" ; Times: 1
+	Query: "Xanthichthys ringens" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1416 download events in this period)
+Total number of records downloaded: 325
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Peru ; Times: 15
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-18 ; Times: 3
+	Date: 2018-08-19 ; Times: 2
+	Date: 2018-08-09 ; Times: 2
+	Date: 2018-08-22 ; Times: 1
+	Date: 2018-08-21 ; Times: 3
+	Date: 2018-08-20 ; Times: 7
+	Date: 2018-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "prochilodus nigricans" ; Times: 2
+	Query: "Brycon amazonicus" ; Times: 1
+	Query: "Hoplias malabaricus" ; Times: 1
+	Query: "Ituglanis" ; Times: 1
+	Query: "Prochilodus nigricans" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "Leporinus trifasciatus" ; Times: 1
+	Query: "Leporinus friderici" ; Times: 2
+	Query: "Ara" ; Times: 2
+	Query: "Chaetobranchus flavescens" ; Times: 1
+	Query: "Brycon hilarii" ; Times: 1
+	Query: "Schizodon fasciatus" ; Times: 1
+	Query: "Cichla monoculus" ; Times: 1
+	Query: "country:&#34;Peru&#34;" ; Times: 1
+	Query: "Rhytiodus microlepis" ; Times: 1
+	Query: "Anisotremus virginicus" ; Times: 1
+
+
+End of report.
