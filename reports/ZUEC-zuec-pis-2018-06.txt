@@ -1,0 +1,81 @@
+Report for Institution Code ZUEC, Resource zuec-pis
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 59
+Number of records retrieved in searches: 426
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 51
+	Country: Brazil ; Times: 5
+	Country: Netherlands ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-03 ; Times: 2
+	Date: 2018-06-18 ; Times: 2
+	Date: 2018-06-13 ; Times: 9
+	Date: 2018-06-14 ; Times: 3
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-24 ; Times: 1
+	Date: 2018-06-21 ; Times: 22
+	Date: 2018-06-20 ; Times: 17
+	Date: 2018-06-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "(Jacutinga)" ; Times: 2
+	Query: "Acanthurus chirurgus" ; Times: 6
+	Query: "Prochilodus lineatus" ; Times: 1
+	Query: "specificepithet:facetus family:Cichlidae" ; Times: 1
+	Query: "Salminus brasiliensis" ; Times: 1
+	Query: "Chaetodon mata mappable:1" ; Times: 2
+	Query: "Acanthurus sp. mappable:1" ; Times: 1
+	Query: "Acanthurus sp." ; Times: 1
+	Query: "Chaetodon chirurgus" ; Times: 2
+	Query: "fluviphylax" ; Times: 1
+	Query: "Acanthurus striatus" ; Times: 1
+	Query: "catalognumber:5788" ; Times: 1
+	Query: "mylesinus" ; Times: 2
+	Query: "vandellia sanguinea" ; Times: 1
+	Query: "Seriola lalandi" ; Times: 1
+	Query: "Trichomycterus nigroauratus" ; Times: 1
+	Query: "Acanthurus mata" ; Times: 5
+	Query: "Acanthurus bahianus" ; Times: 3
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "Trichomycterus paolence" ; Times: 1
+	Query: "Acanthurus coeruleus" ; Times: 3
+	Query: "Acanthurus mata mappable:1" ; Times: 6
+	Query: "scoloplax" ; Times: 1
+	Query: "Acanthurus coeruleus mappable:1" ; Times: 3
+	Query: "Acanthurus bahianus mappable:1" ; Times: 3
+	Query: "Chaetodon mata" ; Times: 1
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 6
+	Query: "genus:Australoheros family:Cichlidae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1169 download events in this period)
+Total number of records downloaded: 24
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Panama ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-18 ; Times: 3
+	Date: 2018-06-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Salminus brasiliensis" ; Times: 1
+	Query: "Prochilodus lineatus" ; Times: 1
+	Query: "Pterygoplichthys" ; Times: 2
+	Query: "Seriola lalandi" ; Times: 1
+
+
+End of report.
