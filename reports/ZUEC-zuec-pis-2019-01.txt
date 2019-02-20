@@ -1,0 +1,77 @@
+Report for Institution Code ZUEC, Resource zuec-pis
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 53
+Number of records retrieved in searches: 510
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 14
+	Country: Portugal ; Times: 1
+	Country: Unknown ; Times: 21
+	Country: France ; Times: 8
+	Country: United States ; Times: 6
+	Country: Colombia ; Times: 2
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 2
+	Date: 2019-01-29 ; Times: 4
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-04 ; Times: 4
+	Date: 2019-01-20 ; Times: 7
+	Date: 2019-01-23 ; Times: 14
+	Date: 2019-01-31 ; Times: 3
+	Date: 2019-01-24 ; Times: 2
+	Date: 2019-01-13 ; Times: 1
+	Date: 2019-01-30 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "astyanax abramis" ; Times: 2
+	Query: "Castilho" ; Times: 1
+	Query: "Pimelodus maculatus mappable:1" ; Times: 2
+	Query: "Teodoro Sampaio" ; Times: 1
+	Query: "Engraulis anchoita" ; Times: 1
+	Query: "Alopias vulpinus mappable:1" ; Times: 4
+	Query: "Squatina squatina mappable:1" ; Times: 1
+	Query: "Murutinga do Sul" ; Times: 1
+	Query: "Salminus brasiliensis" ; Times: 1
+	Query: "Astyanax bimaculatus mappable:1" ; Times: 1
+	Query: "Zapteryx" ; Times: 2
+	Query: "Opisthonema oglinum Brazil" ; Times: 1
+	Query: "pterygoplichthys punctatus" ; Times: 1
+	Query: "leptagoniates" ; Times: 1
+	Query: "Hoplias intermedius mappable:1" ; Times: 2
+	Query: "Sardinella brasiliensis Brazil" ; Times: 2
+	Query: "Astronotus crassipinnis" ; Times: 1
+	Query: "Loricariichthys castaneus mappable:1" ; Times: 2
+	Query: "stateprovince:&#34;Distrito Federal&#34; country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Xyrichtys novacula mappable:1" ; Times: 1
+	Query: "Odontaspis ferox mappable:1" ; Times: 2
+	Query: "aphyocharacidium" ; Times: 1
+	Query: "Sardinella brasiliensis" ; Times: 18
+	Query: "Andradina" ; Times: 1
+	Query: "Hypostomus affinis mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 962 download events in this period)
+Total number of records downloaded: 43
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-10 ; Times: 1
+	Date: 2019-01-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Nauta" ; Times: 1
+	Query: "recordedby:Maria basisofrecord:PreservedSpecimen" ; Times: 2
+
+
+End of report.
