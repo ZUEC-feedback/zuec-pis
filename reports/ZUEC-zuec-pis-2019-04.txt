@@ -1,0 +1,141 @@
+Report for Institution Code ZUEC, Resource zuec-pis
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 131
+Number of records retrieved in searches: 1069
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 117
+	Country: United States ; Times: 7
+	Country: Costa Rica ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 4
+	Country: Switzerland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 109
+	Date: 2019-04-18 ; Times: 2
+	Date: 2019-04-02 ; Times: 4
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-11 ; Times: 1
+	Date: 2019-04-15 ; Times: 5
+	Date: 2019-04-30 ; Times: 1
+	Date: 2019-04-26 ; Times: 3
+	Date: 2019-04-01 ; Times: 1
+	Date: 2019-04-24 ; Times: 1
+	Date: 2019-04-25 ; Times: 1
+	Date: 2019-04-28 ; Times: 1
+	Date: 2019-04-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cynoscion virescens mappable:1" ; Times: 2
+	Query: "Scorpaena isthmensis mappable:1" ; Times: 1
+	Query: "Prochilodus lineatus mappable:1" ; Times: 1
+	Query: "Astyanax intermedius mappable:1" ; Times: 1
+	Query: "Macrodon ancylodon mappable:1" ; Times: 2
+	Query: "Registro" ; Times: 1
+	Query: "Bagre bagre mappable:1" ; Times: 1
+	Query: "Nematolebias whitei" ; Times: 3
+	Query: "Gobionellus oceanicus mappable:1" ; Times: 1
+	Query: "Bairdiella ronchus mappable:1" ; Times: 2
+	Query: "Hyphessobrycon eques mappable:1" ; Times: 1
+	Query: "Genidens genidens mappable:1" ; Times: 2
+	Query: "Larimus breviceps mappable:1" ; Times: 2
+	Query: "Prochilodus costatus mappable:1" ; Times: 1
+	Query: "Lophiosilurus alexandri mappable:1" ; Times: 1
+	Query: "Narcine brasiliensis mappable:1" ; Times: 1
+	Query: "Knodus moenkhausii mappable:1" ; Times: 1
+	Query: "Loricariichthys castaneus mappable:1" ; Times: 1
+	Query: "Cetengraulis edentulus mappable:1" ; Times: 2
+	Query: "Anchoa lyolepis mappable:1" ; Times: 1
+	Query: "Crenicichla lacustris mappable:1" ; Times: 1
+	Query: "Isopisthus parvipinnis mappable:1" ; Times: 2
+	Query: "Hypostomus luetkeni mappable:1" ; Times: 1
+	Query: "Pimelodus maculatus mappable:1" ; Times: 2
+	Query: "Anchoa tricolor mappable:1" ; Times: 2
+	Query: "Menticirrhus americanus mappable:1" ; Times: 1
+	Query: "Emblemariopsis signifer" ; Times: 1
+	Query: "Elops saurus mappable:1" ; Times: 2
+	Query: "Trichiurus lepturus mappable:1" ; Times: 1
+	Query: "Poecilia vivipara mappable:1" ; Times: 1
+	Query: "Trinectes paulistanus mappable:1" ; Times: 2
+	Query: "Otocinclus affinis" ; Times: 1
+	Query: "Astyanax bimaculatus mappable:1" ; Times: 1
+	Query: "Prionotus punctatus mappable:1" ; Times: 2
+	Query: "Pygocentrus piraya mappable:1" ; Times: 1
+	Query: "Polydactylus virginicus mappable:1" ; Times: 2
+	Query: "Hoplias intermedius mappable:1" ; Times: 1
+	Query: "Haemulopsis corvinaeformis mappable:1" ; Times: 1
+	Query: "Eugerres brasilianus mappable:1" ; Times: 1
+	Query: "Hoplosternum littorale mappable:1" ; Times: 1
+	Query: "Opisthonema oglinum mappable:1" ; Times: 2
+	Query: "Vilhena" ; Times: 1
+	Query: "Delturus carinotus mappable:1" ; Times: 1
+	Query: "Emblemariopsis signifer mappable:1" ; Times: 1
+	Query: "Serrasalmus marginatus mappable:1" ; Times: 1
+	Query: "Sardinella brasiliensis" ; Times: 1
+	Query: "Stellifer brasiliensis mappable:1" ; Times: 2
+	Query: "Squaliforma emarginata" ; Times: 1
+	Query: "Hypostomus affinis mappable:1" ; Times: 1
+	Query: "Awaous tajasica mappable:1" ; Times: 2
+	Query: "Cathorops spixii mappable:1" ; Times: 2
+	Query: "salminus hilarii" ; Times: 1
+	Query: "Brycon dulcis mappable:1" ; Times: 1
+	Query: "Pellona harroweri mappable:1" ; Times: 2
+	Query: "Bothus ocellatus mappable:1" ; Times: 1
+	Query: "catalognumber:1327" ; Times: 1
+	Query: "Centropomus parallelus mappable:1" ; Times: 2
+	Query: "Cynoscion leiarchus mappable:1" ; Times: 1
+	Query: "Rhamdia quelen mappable:1" ; Times: 1
+	Query: "Caranx latus mappable:1" ; Times: 2
+	Query: "Odontognathus mucronatus mappable:1" ; Times: 2
+	Query: "Oligosarcus argenteus mappable:1" ; Times: 1
+	Query: "Ophioscion punctatissimus mappable:1" ; Times: 2
+	Query: "10313" ; Times: 1
+	Query: "Trachelyopterus striatulus mappable:1" ; Times: 1
+	Query: "Lycengraulis grossidens mappable:1" ; Times: 1
+	Query: "Stellifer stellifer mappable:1" ; Times: 1
+	Query: "Zapteryx brevirostris mappable:1" ; Times: 1
+	Query: "Gymnotus carapo mappable:1" ; Times: 1
+	Query: "Nebris microps mappable:1" ; Times: 2
+	Query: "Centropomus undecimalis mappable:1" ; Times: 2
+	Query: "Lagocephalus laevigatus mappable:1" ; Times: 1
+	Query: "Metynnis lippincottianus mappable:1" ; Times: 1
+	Query: "Synbranchus marmoratus mappable:1" ; Times: 1
+	Query: "Deuterodon pedri mappable:1" ; Times: 1
+	Query: "Eucinostomus melanopterus mappable:1" ; Times: 2
+	Query: "Leporinus copelandii mappable:1" ; Times: 1
+	Query: "Hyphessobrycon bifasciatus mappable:1" ; Times: 1
+	Query: "Mugil liza mappable:1" ; Times: 2
+	Query: "Pygocentrus nattereri mappable:1" ; Times: 1
+	Query: "Atherinella brasiliensis mappable:1" ; Times: 2
+	Query: "Serranus flaviventris mappable:1" ; Times: 1
+	Query: "Menticirrhus littoralis mappable:1" ; Times: 1
+	Query: "Porichthys porosissimus mappable:1" ; Times: 1
+	Query: "Paraopeba" ; Times: 3
+	Query: "Stellifer rastrifer mappable:1" ; Times: 2
+	Query: "salminus" ; Times: 3
+	Query: "estados unidos" ; Times: 1
+	Query: "Oreochromis niloticus mappable:1" ; Times: 1
+	Query: "Salminus brasiliensis mappable:1" ; Times: 1
+	Query: "Conodon nobilis mappable:1" ; Times: 2
+	Query: "Micropogonias furnieri mappable:1" ; Times: 2
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1263 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
