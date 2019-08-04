@@ -1,0 +1,79 @@
+Report for Institution Code ZUEC, Resource zuec-pis
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 40
+Number of records retrieved in searches: 367
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 35
+	Country: Brazil ; Times: 3
+	Country: Portugal ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-08 ; Times: 29
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-24 ; Times: 1
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-29 ; Times: 1
+	Date: 2019-07-28 ; Times: 2
+	Date: 2019-07-17 ; Times: 3
+	Date: 2019-07-07 ; Times: 1
+	Date: 2019-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Pseudobunocephalus specificepithet:rugosus" ; Times: 1
+	Query: "genus:Lycengraulis specificepithet:grossidens" ; Times: 1
+	Query: "Cichla kelberi mappable:1" ; Times: 1
+	Query: "genus:Eigenmannia specificepithet:macrops" ; Times: 1
+	Query: "genus:Narcine specificepithet:brasiliensis" ; Times: 1
+	Query: "genus:Odontognathus specificepithet:mucronatus" ; Times: 1
+	Query: "genus:Holocentrus specificepithet:adscensionis" ; Times: 1
+	Query: "seductus" ; Times: 1
+	Query: "Cichla temensis" ; Times: 1
+	Query: "genus:Eigenmannia specificepithet:virescens" ; Times: 1
+	Query: "catalognumber:11983" ; Times: 1
+	Query: "genus:Harengula specificepithet:clupeola" ; Times: 1
+	Query: "genus:Anableps specificepithet:anableps" ; Times: 1
+	Query: "genus:Anarchopterus specificepithet:criniger" ; Times: 1
+	Query: "genus:Pseudobunocephalus specificepithet:amazonicus" ; Times: 1
+	Query: "genus:Pristigaster specificepithet:cayana" ; Times: 1
+	Query: "genus:Parotocinclus specificepithet:maculicauda" ; Times: 1
+	Query: "genus:Risor specificepithet:ruber" ; Times: 1
+	Query: "Tietê" ; Times: 1
+	Query: "genus:Leporinus specificepithet:friderici" ; Times: 1
+	Query: "genus:Charax" ; Times: 1
+	Query: "genus:Rhinoptera specificepithet:bonasus" ; Times: 1
+	Query: "Zonata year &gt;= 2000 year &lt;= 2019" ; Times: 2
+	Query: "genus:Ophioblennius specificepithet:atlanticus" ; Times: 1
+	Query: "Clepticus" ; Times: 1
+	Query: "genus:Chirocentrodon specificepithet:bleekerianus" ; Times: 1
+	Query: "genus:Cetengraulis specificepithet:edentulus" ; Times: 1
+	Query: "genus:Gymnocorymbus specificepithet:ternetzi" ; Times: 1
+	Query: "genus:Henonemus" ; Times: 1
+	Query: "genus:Aspidoras" ; Times: 1
+	Query: "genus:Chilomycterus specificepithet:spinosus" ; Times: 1
+	Query: "genus:Characidium" ; Times: 1
+	Query: "genus:Mesonauta specificepithet:insignis" ; Times: 1
+	Query: "Moenkhausia sanctaefilomenae" ; Times: 1
+	Query: "genus:Cheilopogon specificepithet:melanurus" ; Times: 1
+	Query: "genus:Tometes" ; Times: 1
+	Query: "araripe" ; Times: 2
+	Query: "genus:Rhinosardinia specificepithet:amazonica" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 985 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
