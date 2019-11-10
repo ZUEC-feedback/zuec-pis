@@ -1,0 +1,80 @@
+Report for Institution Code ZUEC, Resource zuec-pis
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 50
+Number of records retrieved in searches: 215
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 5
+	Country: Mexico ; Times: 4
+	Country: Brazil ; Times: 10
+	Country: France ; Times: 30
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-10 ; Times: 15
+	Date: 2019-09-27 ; Times: 2
+	Date: 2019-09-19 ; Times: 5
+	Date: 2019-09-03 ; Times: 15
+	Date: 2019-09-02 ; Times: 8
+	Date: 2019-09-01 ; Times: 2
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-05 ; Times: 1
+	Date: 2019-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sphoeroides spengleri mappable:1" ; Times: 1
+	Query: "Upeneus parvus mappable:1" ; Times: 5
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 5
+	Query: "Lactophrys trigonus mappable:1" ; Times: 1
+	Query: "Calamus penna mappable:1" ; Times: 1
+	Query: "Canthidermis maculata mappable:1" ; Times: 1
+	Query: "Mulloidichthys martinicus mappable:1" ; Times: 5
+	Query: "locality:Vila Bela da Santíssima Trindade" ; Times: 1
+	Query: "Henonemus punctatus" ; Times: 2
+	Query: "piranha" ; Times: 1
+	Query: "Cichla kelberi mappable:1" ; Times: 1
+	Query: "Odontaspis" ; Times: 1
+	Query: "Prionotus punctatus mappable:1" ; Times: 1
+	Query: "genus:bryconexodon" ; Times: 1
+	Query: "Stegastes variabilis mappable:1" ; Times: 1
+	Query: "Gymnachirus nudus mappable:1" ; Times: 1
+	Query: "Rypticus saponaceus mappable:1" ; Times: 1
+	Query: "Antennarius multiocellatus mappable:1" ; Times: 1
+	Query: "Seriola lalandi" ; Times: 1
+	Query: "Pontinus rathbuni mappable:1" ; Times: 1
+	Query: "catalognumber:5841" ; Times: 1
+	Query: "Ocyurus chrysurus mappable:1" ; Times: 1
+	Query: "catalognumber:5481" ; Times: 1
+	Query: "Ogcocephalus vespertilio mappable:1" ; Times: 1
+	Query: "Cichla piquiti mappable:1" ; Times: 4
+	Query: "specificepithet:malabaricus genus:hoplias year &gt;= 2016 year &lt;= 2016" ; Times: 1
+	Query: "Malacanthus plumieri mappable:1" ; Times: 1
+	Query: "Rypticus bistrispinus mappable:1" ; Times: 1
+	Query: "panaque nigrolineatus" ; Times: 4
+	Query: "Haemomaster venezuelae" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1073 download events in this period)
+Total number of records downloaded: 4
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Germany ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-02 ; Times: 1
+	Date: 2019-09-26 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "family:(Geotriidae OR Mordaciidae OR Hexanchidae OR Chlamydoselachidae) mappable:1" ; Times: 1
+	Query: "panaque nigrolineatus" ; Times: 1
+	Query: "family:(Geotriidae OR Hexanchidae OR Chlamydoselachidae) mappable:1" ; Times: 2
+
+
+End of report.
