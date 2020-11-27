@@ -1,0 +1,65 @@
+Report for Institution Code ZUEC, Resource zuec-pis
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 53
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Brazil ; Times: 7
+	Country: Singapore ; Times: 1
+	Country: France ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 2
+	Date: 2019-11-21 ; Times: 1
+	Date: 2019-11-22 ; Times: 4
+	Date: 2019-11-18 ; Times: 2
+	Date: 2019-11-08 ; Times: 1
+	Date: 2019-11-15 ; Times: 1
+	Date: 2019-11-07 ; Times: 2
+	Date: 2019-11-16 ; Times: 1
+	Date: 2019-11-10 ; Times: 2
+	Date: 2019-11-13 ; Times: 3
+	Date: 2019-11-01 ; Times: 2
+	Date: 2019-11-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "peixes distrito federal" ; Times: 1
+	Query: "catalognumber:6942" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "Epinephelus itajara" ; Times: 1
+	Query: "Alopias vulpinus vntype:specimen" ; Times: 1
+	Query: "sternopygus macrurus" ; Times: 1
+	Query: "genus:Odontaspis" ; Times: 1
+	Query: "petitella georgiae" ; Times: 3
+	Query: "CMC 1860" ; Times: 2
+	Query: "catalognumber:942" ; Times: 1
+	Query: "Sphyrna lewini mappable:1" ; Times: 1
+	Query: "trichiurus lepturus vntype:specimen year &gt;= 2000" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "oxybrycon" ; Times: 2
+	Query: "Epinephelus marginatus mappable:1" ; Times: 1
+	Query: "10918" ; Times: 1
+	Query: "Uraspis secunda" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1367 download events in this period)
+Total number of records downloaded: 20
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "(tilapia)" ; Times: 1
+
+
+End of report.
