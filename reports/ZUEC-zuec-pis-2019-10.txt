@@ -1,0 +1,115 @@
+Report for Institution Code ZUEC, Resource zuec-pis
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 108
+Number of records retrieved in searches: 212
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Unknown ; Times: 8
+	Country: United States ; Times: 30
+	Country: Belgium ; Times: 10
+	Country: Japan ; Times: 3
+	Country: New Zealand ; Times: 51
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 29
+	Date: 2019-10-22 ; Times: 2
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-20 ; Times: 1
+	Date: 2019-10-27 ; Times: 4
+	Date: 2019-10-25 ; Times: 2
+	Date: 2019-10-24 ; Times: 26
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-03 ; Times: 2
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-30 ; Times: 6
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-14 ; Times: 9
+	Date: 2019-10-15 ; Times: 1
+	Date: 2019-10-07 ; Times: 11
+	Date: 2019-10-21 ; Times: 7
+	Date: 2019-10-28 ; Times: 3
+	Date: 2019-10-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "temensis Cichla" ; Times: 2
+	Query: "Cantherhines pullus" ; Times: 1
+	Query: "Dasyatis hypostigma" ; Times: 1
+	Query: "Aluterus monoceros mappable:1" ; Times: 3
+	Query: "Squatina guggenheim" ; Times: 2
+	Query: "SP 10654" ; Times: 2
+	Query: "catalognumber:12077" ; Times: 1
+	Query: "Aluterus heudelotii" ; Times: 1
+	Query: "Carcharhinus perezii" ; Times: 2
+	Query: "Mola mola mappable:0" ; Times: 10
+	Query: "Rhizoprionodon lalandii" ; Times: 2
+	Query: "Carcharhinus falciformis" ; Times: 2
+	Query: "Carcharhinus porosus" ; Times: 1
+	Query: "aphos" ; Times: 1
+	Query: "Aluterus monoceros" ; Times: 1
+	Query: "Heptranchias perlo" ; Times: 2
+	Query: "Cantherhines macrocerus" ; Times: 1
+	Query: "Aluterus scriptus" ; Times: 1
+	Query: "SP 12815" ; Times: 1
+	Query: "SP 12586" ; Times: 1
+	Query: "Rhizoprionodon porosus" ; Times: 1
+	Query: "Diplacanthopoma" ; Times: 3
+	Query: "13267" ; Times: 3
+	Query: "SP 13316" ; Times: 1
+	Query: "Squalus cubensis" ; Times: 2
+	Query: "Squatina squatina" ; Times: 2
+	Query: "Narcine brasiliensis" ; Times: 2
+	Query: "Rhinoptera bonasus" ; Times: 2
+	Query: "Gurgesiella dorsalifera" ; Times: 1
+	Query: "SP 10805" ; Times: 1
+	Query: "Oreochromis niloticus mappable:1" ; Times: 1
+	Query: "Isistius plutodus" ; Times: 1
+	Query: "SP 11795" ; Times: 1
+	Query: "Hexanchus griseus" ; Times: 2
+	Query: "SP 11608" ; Times: 1
+	Query: "SP 9397" ; Times: 1
+	Query: "Cichla piquiti mappable:1" ; Times: 1
+	Query: "Alopias" ; Times: 1
+	Query: "Zapteryx brevirostris" ; Times: 2
+	Query: "Sphyrna lewini" ; Times: 2
+	Query: "Isistius brasiliensis" ; Times: 1
+	Query: "Pteroplatytrygon violacea" ; Times: 2
+	Query: "11893" ; Times: 3
+	Query: "Squalus acanthias" ; Times: 2
+	Query: "Alopias vulpinus" ; Times: 2
+	Query: "catalognumber:2482" ; Times: 2
+	Query: "Aluterus scriptus mappable:1" ; Times: 3
+	Query: "Mustelus schmitti" ; Times: 2
+	Query: "Sphyrna zygaena" ; Times: 2
+	Query: "Sphyrna tudes" ; Times: 3
+	Query: "Odontaspis ferox" ; Times: 2
+	Query: "Carcharhinus limbatus" ; Times: 2
+	Query: "Figaro striatus" ; Times: 1
+	Query: "Prionace glauca" ; Times: 2
+	Query: "cichla monoculus" ; Times: 1
+	Query: "Squalus megalops" ; Times: 2
+	Query: "10109" ; Times: 1
+	Query: "Cantherhines pullus mappable:1" ; Times: 3
+	Query: "Cantherhines macrocerus mappable:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1308 download events in this period)
+Total number of records downloaded: 2
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-04 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Tangara" ; Times: 2
+
+
+End of report.
