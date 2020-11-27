@@ -1,0 +1,256 @@
+Report for Institution Code ZUEC, Resource zuec-pis
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1141
+Number of records retrieved in searches: 8561
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: United Kingdom ; Times: 1136
+	Country: Venezuela ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Bolivia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-18 ; Times: 1
+	Date: 2020-04-05 ; Times: 1
+	Date: 2020-04-03 ; Times: 183
+	Date: 2020-04-07 ; Times: 703
+	Date: 2020-04-14 ; Times: 3
+	Date: 2020-04-04 ; Times: 1
+	Date: 2020-04-23 ; Times: 2
+	Date: 2020-04-21 ; Times: 83
+	Date: 2020-04-02 ; Times: 1
+	Date: 2020-04-25 ; Times: 1
+	Date: 2020-04-08 ; Times: 162
+
+List of queries that retrieved data from the resource: 
+	Query: "Geophagus brasiliensis" ; Times: 3
+	Query: "Harttia kronei" ; Times: 2
+	Query: "Pimelodus cf. blochii" ; Times: 6
+	Query: "Vandellia cirrhosa" ; Times: 2
+	Query: "Bryconops affinis" ; Times: 6
+	Query: "Neoplecostomus microps" ; Times: 6
+	Query: "Rineloricaria parva" ; Times: 6
+	Query: "Isbrueckerichthys epakmos" ; Times: 3
+	Query: "Pimelodus maculatus" ; Times: 6
+	Query: "Iheringichthys labrosus" ; Times: 6
+	Query: "Uraspis secunda" ; Times: 5
+	Query: "Jupiaba polylepis" ; Times: 7
+	Query: "Creagrutus beni" ; Times: 4
+	Query: "Pseudopimelodus charus" ; Times: 5
+	Query: "Hyphessobrycon eques" ; Times: 6
+	Query: "Brachyplatystoma platynemum" ; Times: 5
+	Query: "Rhinodoras cf. boehlkei" ; Times: 6
+	Query: "Pareiodon microps" ; Times: 3
+	Query: "Astyanax paranae" ; Times: 2
+	Query: "Hypoptopoma inexspectatum" ; Times: 8
+	Query: "Sternopygus macrurus" ; Times: 8
+	Query: "Gymnotus carapo" ; Times: 8
+	Query: "Pseudancistrus barbatus" ; Times: 6
+	Query: "Poecilia reticulata" ; Times: 9
+	Query: "Pimelodina flavipinnis" ; Times: 6
+	Query: "Lycengraulis grossidens" ; Times: 6
+	Query: "Trachydoras nattereri" ; Times: 6
+	Query: "Oxydoras niger" ; Times: 8
+	Query: "Leiarius marmoratus" ; Times: 6
+	Query: "Knodus cf. chapadae" ; Times: 3
+	Query: "Hemigrammus marginatus" ; Times: 3
+	Query: "Piabina argentea" ; Times: 6
+	Query: "Leporinus affinis" ; Times: 8
+	Query: "Pygocentrus nattereri" ; Times: 11
+	Query: "Leporinus elongatus" ; Times: 6
+	Query: "Acestrorhynchus lacustris" ; Times: 9
+	Query: "Cheilopogon exsiliens" ; Times: 5
+	Query: "Curimatella lepidura" ; Times: 4
+	Query: "Hypostomus affinis" ; Times: 6
+	Query: "Leporinus piau" ; Times: 3
+	Query: "Chalceus macrolepidotus" ; Times: 8
+	Query: "Kronichthys heylandi" ; Times: 6
+	Query: "Serrasalmus manueli" ; Times: 9
+	Query: "Ossancora punctata" ; Times: 6
+	Query: "Pimelodella cristata" ; Times: 9
+	Query: "Tympanopleura atronasus" ; Times: 6
+	Query: "Eigenmannia virescens" ; Times: 6
+	Query: "Engraulis eurystole" ; Times: 4
+	Query: "Hypancistrus zebra" ; Times: 6
+	Query: "Trachurus lathami" ; Times: 5
+	Query: "Pellona flavipinnis" ; Times: 8
+	Query: "Centromochlus heckelii" ; Times: 4
+	Query: "Boulengerella maculata" ; Times: 8
+	Query: "Hopliancistrus tricornis" ; Times: 2
+	Query: "Cheirocerus eques" ; Times: 10
+	Query: "Salminus brasiliensis" ; Times: 8
+	Query: "Loricariichthys labialis" ; Times: 3
+	Query: "Brycon orbignyanus" ; Times: 5
+	Query: "Cetopsorhamdia iheringi" ; Times: 6
+	Query: "Cetopsis coecutiens" ; Times: 8
+	Query: "Bryconamericus iheringii" ; Times: 6
+	Query: "Astronotus ocellatus" ; Times: 3
+	Query: "Cheirodon interruptus" ; Times: 3
+	Query: "Planaltina myersi" ; Times: 3
+	Query: "Bryconamericus microcephalus" ; Times: 4
+	Query: "Characidium lagosantense" ; Times: 3
+	Query: "Crenicichla lepidota" ; Times: 8
+	Query: "Brachyplatystoma tigrinum" ; Times: 6
+	Query: "Myloplus rubripinnis" ; Times: 8
+	Query: "Brycon orthotaenia" ; Times: 4
+	Query: "Roeboides xenodon" ; Times: 6
+	Query: "Pristobrycon striolatus" ; Times: 3
+	Query: "Helogenes marmoratus" ; Times: 6
+	Query: "Oreochromis mossambicus" ; Times: 22
+	Query: "Hypostomus plecostomus" ; Times: 6
+	Query: "Pristella maxillaris" ; Times: 4
+	Query: "Physopyxis lyra" ; Times: 6
+	Query: "Scobinancistrus aureatus" ; Times: 6
+	Query: "Pseudoplatystoma tigrinum" ; Times: 11
+	Query: "Moenkhausia lepidura" ; Times: 2
+	Query: "Serrapinnus piaba" ; Times: 3
+	Query: "Rineloricaria lanceolata" ; Times: 6
+	Query: "Hypostomus alatus" ; Times: 6
+	Query: "Trachydoras steindachneri" ; Times: 6
+	Query: "Tatia intermedia" ; Times: 7
+	Query: "Schizodon knerii" ; Times: 4
+	Query: "Trachelyopterus galeatus" ; Times: 6
+	Query: "Calophysus macropterus" ; Times: 8
+	Query: "Bryconamericus stramineus" ; Times: 3
+	Query: "Opisthonema oglinum" ; Times: 4
+	Query: "Merluccius hubbsi" ; Times: 6
+	Query: "Doras carinatus" ; Times: 8
+	Query: "Pseudopimelodus pulcher" ; Times: 5
+	Query: "Decapterus macarellus" ; Times: 5
+	Query: "Loricariichthys platymetopon" ; Times: 3
+	Query: "Ancistrus multispinis" ; Times: 13
+	Query: "schmardae" ; Times: 1
+	Query: "Hemiodontichthys acipenserinus" ; Times: 3
+	Query: "Serrasalmus gouldingi" ; Times: 6
+	Query: "Hyphessobrycon anisitsi" ; Times: 6
+	Query: "Prochilodus costatus" ; Times: 6
+	Query: "Pimelodus blochii" ; Times: 6
+	Query: "Rhamdia quelen" ; Times: 14
+	Query: "Creagrutus seductus" ; Times: 5
+	Query: "Parotocinclus maculicauda" ; Times: 4
+	Query: "Anchoviella lepidentostole" ; Times: 4
+	Query: "Serrasalmus maculatus" ; Times: 4
+	Query: "Thayeria boehlkei" ; Times: 5
+	Query: "Electrophorus electricus" ; Times: 8
+	Query: "Corydoras rabauti" ; Times: 4
+	Query: "Orthospinus franciscensis" ; Times: 4
+	Query: "Serrasalmus brandtii" ; Times: 6
+	Query: "Pseudocorynopoma doriae" ; Times: 6
+	Query: "Lophiosilurus alexandri" ; Times: 10
+	Query: "Amblydoras cf. affinis" ; Times: 2
+	Query: "Synbranchus marmoratus" ; Times: 11
+	Query: "Leptodoras juruensis" ; Times: 8
+	Query: "Rineloricaria heteroptera" ; Times: 6
+	Query: "Hyphessobrycon santae" ; Times: 4
+	Query: "Pimelodus ornatus" ; Times: 3
+	Query: "Exallodontus aguanai" ; Times: 5
+	Query: "Hemiodus gracilis" ; Times: 8
+	Query: "Piaractus brachypomus" ; Times: 9
+	Query: "Hemidoras stenopeltis" ; Times: 6
+	Query: "Leporinus taeniatus" ; Times: 5
+	Query: "Pareiorhina rudolphi" ; Times: 6
+	Query: "Limatulichthys griseus" ; Times: 3
+	Query: "Moenkhausia ceros" ; Times: 8
+	Query: "Loricariichthys castaneus" ; Times: 3
+	Query: "Myleus setiger" ; Times: 5
+	Query: "Apteronotus albifrons" ; Times: 8
+	Query: "Australoheros facetus" ; Times: 3
+	Query: "Knodus smithi" ; Times: 6
+	Query: "Knodus moenkhausii" ; Times: 6
+	Query: "Callichthys callichthys" ; Times: 2
+	Query: "Sorubim elongatus" ; Times: 6
+	Query: "Batrochoglanis raninus" ; Times: 12
+	Query: "Pterygoplichthys anisitsi" ; Times: 6
+	Query: "Moenkhausia sanctaefilomenae" ; Times: 5
+	Query: "Hemisorubim platyrhynchos" ; Times: 9
+	Query: "Bryconops caudomaculatus" ; Times: 6
+	Query: "Hypophthalmus cf. edentatus" ; Times: 6
+	Query: "Amazonsprattus scintilla" ; Times: 4
+	Query: "Cichlasoma dimerus" ; Times: 2
+	Query: "Platydoras armatulus" ; Times: 6
+	Query: "Decapterus tabl" ; Times: 5
+	Query: "Prochilodus lineatus" ; Times: 4
+	Query: "Pseudopimelodus bufonius" ; Times: 10
+	Query: "Farlowella smithi" ; Times: 4
+	Query: "Pinirampus pirinampu" ; Times: 5
+	Query: "Sorubim lima" ; Times: 5
+	Query: "Astyanax bimaculatus" ; Times: 6
+	Query: "Laetacara thayeri" ; Times: 3
+	Query: "Poptella compressa" ; Times: 8
+	Query: "Characidium zebra" ; Times: 6
+	Query: "25093" ; Times: 1
+	Query: "Oligosarcus argenteus" ; Times: 3
+	Query: "Roeboides descalvadensis" ; Times: 5
+	Query: "Pimelodus fur" ; Times: 6
+	Query: "Pygocentrus piraya" ; Times: 6
+	Query: "Piaractus mesopotamicus" ; Times: 9
+	Query: "Loricaria cataphracta" ; Times: 3
+	Query: "Kronichthys subteres" ; Times: 2
+	Query: "Rhinodoras boehlkei" ; Times: 6
+	Query: "Pterophyllum scalare" ; Times: 3
+	Query: "Oreochromis niloticus" ; Times: 22
+	Query: "Rineloricaria fallax" ; Times: 6
+	Query: "Prochilodus vimboides" ; Times: 4
+	Query: "Baryancistrus xanthellus" ; Times: 6
+	Query: "Diapoma terofali" ; Times: 6
+	Query: "Mimagoniates microlepis" ; Times: 6
+	Query: "Creagrutus ignotus" ; Times: 6
+	Query: "Brachyplatystoma juruense" ; Times: 6
+	Query: "Cyphocharax gilbert" ; Times: 8
+	Query: "Epinephelus marginatus" ; Times: 6
+	Query: "Lasiancistrus schomburgkii" ; Times: 5
+	Query: "Cyanocharax uruguayensis" ; Times: 6
+	Query: "Corumbataia cuestae" ; Times: 3
+	Query: "Pseudopimelodus mangurus" ; Times: 10
+	Query: "Astyanax fasciatus" ; Times: 2
+	Query: "Uraspis uraspis" ; Times: 5
+	Query: "Henonemus punctatus" ; Times: 3
+	Query: "Hypselecara temporalis" ; Times: 3
+	Query: "Hemiancistrus sabaji" ; Times: 3
+	Query: "Hypostomus francisci" ; Times: 6
+	Query: "Serrasalmus eigenmanni" ; Times: 6
+	Query: "Eigenmannia limbata" ; Times: 6
+	Query: "Tetragonopterus chalceus" ; Times: 8
+	Query: "Imparfinis minutus" ; Times: 15
+	Query: "Apareiodon affinis" ; Times: 4
+	Query: "Knodus heteresthes" ; Times: 6
+	Query: "Megalonema platanum" ; Times: 3
+	Query: "catalognumber:6129" ; Times: 1
+	Query: "Gymnocorymbus ternetzi" ; Times: 3
+	Query: "Hypophthalmus edentatus" ; Times: 6
+	Query: "Ageneiosus ucayalensis" ; Times: 2
+	Query: "Hypoptopoma incognitum" ; Times: 8
+	Query: "Parodon hilarii" ; Times: 4
+	Query: "D. Sim" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1171 download events in this period)
+Total number of records downloaded: 177
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Lithuania ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-05 ; Times: 1
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-08 ; Times: 1
+	Date: 2020-04-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Characidium" ; Times: 1
+	Query: "eretmochelys" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "squatina squatina" ; Times: 1
+
+
+End of report.
