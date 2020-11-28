@@ -1,0 +1,109 @@
+Report for Institution Code ZUEC, Resource zuec-pis
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 56
+Number of records retrieved in searches: 239
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: France ; Times: 45
+	Country: United States ; Times: 5
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 2
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-16 ; Times: 10
+	Date: 2020-09-17 ; Times: 11
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-12 ; Times: 1
+	Date: 2020-09-20 ; Times: 2
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-18 ; Times: 21
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-01 ; Times: 1
+	Date: 2020-09-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Balistes capriscus" ; Times: 1
+	Query: "Seriola rivoliana" ; Times: 1
+	Query: "Mycteroperca rubra" ; Times: 1
+	Query: "Rhinobatos rhinobatos" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "Caranx crysos" ; Times: 1
+	Query: "Sphoeroides spengleri" ; Times: 1
+	Query: "Tetrapturus albidus" ; Times: 1
+	Query: "Pseudocaranx dentex" ; Times: 1
+	Query: "25093" ; Times: 1
+	Query: "Kyphosus sectatrix" ; Times: 1
+	Query: "Laimosemion mahdiaensis" ; Times: 2
+	Query: "scientificname:Scomber japonicus" ; Times: 1
+	Query: "Seriola dumerili" ; Times: 1
+	Query: "catalognumber:5339" ; Times: 1
+	Query: "Caranx hippos" ; Times: 1
+	Query: "corydoras hastatus" ; Times: 1
+	Query: "Heptranchias perlo" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "Mycteroperca tigris" ; Times: 1
+	Query: "Scartella cristata" ; Times: 1
+	Query: "Euthynnus alletteratus" ; Times: 1
+	Query: "Pomatomus saltatrix" ; Times: 1
+	Query: "Pagrus pagrus" ; Times: 1
+	Query: "catalognumber:10122" ; Times: 1
+	Query: "ZUEC 2748" ; Times: 1
+	Query: "Isurus oxyrinchus" ; Times: 1
+	Query: "Aluterus monoceros" ; Times: 1
+	Query: "Epinephelus marginatus" ; Times: 1
+	Query: "Hexanchus griseus" ; Times: 1
+	Query: "Dactylopterus volitans" ; Times: 1
+	Query: "Mola mola" ; Times: 1
+	Query: "Characidium fasciatum" ; Times: 1
+	Query: "Sardinella aurita" ; Times: 1
+	Query: "Xyrichtys novacula" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "Seriola fasciata" ; Times: 1
+	Query: "catalognumber:5848" ; Times: 1
+	Query: "Pteroplatytrygon violacea" ; Times: 1
+	Query: "Prionace glauca" ; Times: 1
+	Query: "Sarda sarda" ; Times: 1
+	Query: "Dentex dentex" ; Times: 1
+	Query: "Fistularia petimba" ; Times: 1
+	Query: "Echeneis naucrates" ; Times: 1
+	Query: "Sphyrna zygaena" ; Times: 1
+	Query: "Remora brachyptera" ; Times: 1
+	Query: "Lobotes surinamensis" ; Times: 1
+	Query: "Sphyrna tudes" ; Times: 1
+	Query: "Alopias vulpinus" ; Times: 1
+	Query: "Odontaspis ferox" ; Times: 1
+	Query: "Parablennius pilicornis" ; Times: 1
+	Query: "Remora osteochir" ; Times: 1
+	Query: "Trichiurus lepturus" ; Times: 1
+	Query: "Acentronichthys" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 976 download events in this period)
+Total number of records downloaded: 9
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Panama ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-01 ; Times: 1
+	Date: 2020-09-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Acentronichthys" ; Times: 1
+	Query: "curacao" ; Times: 2
+
+
+End of report.
