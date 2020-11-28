@@ -1,0 +1,85 @@
+Report for Institution Code ZUEC, Resource zuec-pis
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 111
+Number of records retrieved in searches: 779
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: United Kingdom ; Times: 72
+	Country: Italy ; Times: 1
+	Country: Peru ; Times: 26
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-09 ; Times: 4
+	Date: 2020-06-06 ; Times: 11
+	Date: 2020-06-07 ; Times: 13
+	Date: 2020-06-04 ; Times: 3
+	Date: 2020-06-05 ; Times: 2
+	Date: 2020-06-02 ; Times: 6
+	Date: 2020-06-10 ; Times: 30
+	Date: 2020-06-15 ; Times: 6
+	Date: 2020-06-11 ; Times: 30
+	Date: 2020-06-17 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Acarichthys heckelii" ; Times: 2
+	Query: "percophis brasiliensis" ; Times: 1
+	Query: "Piaractus mesopotamicus" ; Times: 6
+	Query: "Scomber japonicus" ; Times: 6
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "Apistogramma agassizii" ; Times: 1
+	Query: "Hypoclinemus mentalis" ; Times: 1
+	Query: "Imparfinis minutus" ; Times: 6
+	Query: "catalognumber:4018" ; Times: 1
+	Query: "Chaetobranchus semifasciatus" ; Times: 1
+	Query: "Cichla temensis" ; Times: 1
+	Query: "Trichomycterus hasemani" ; Times: 1
+	Query: "Crenicichla REGANI" ; Times: 1
+	Query: "Geophagus proximus" ; Times: 3
+	Query: "Decapterus tabl" ; Times: 6
+	Query: "Vandellia sanguinea" ; Times: 2
+	Query: "Apionichthys finis" ; Times: 1
+	Query: "chironomidae" ; Times: 1
+	Query: "Pareiodon microps" ; Times: 1
+	Query: "Selar crumenophthalmus" ; Times: 6
+	Query: "Oreochromis niloticus" ; Times: 12
+	Query: "monocirrhus polyacanthus" ; Times: 1
+	Query: "Crenicichla lepidota" ; Times: 2
+	Query: "Pygocentrus nattereri" ; Times: 6
+	Query: "Crenicichla inpa" ; Times: 2
+	Query: "paranthias furcifer" ; Times: 1
+	Query: "Odontognathus mucronatus" ; Times: 2
+	Query: "Piaractus brachypomus" ; Times: 6
+	Query: "Plectrochilus machadoi" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 6
+	Query: "Crenicichla johanna" ; Times: 1
+	Query: "Rhinosardinia amazonica" ; Times: 1
+	Query: "Chirocentrodon bleekerianus" ; Times: 2
+	Query: "pareiodon microps" ; Times: 1
+	Query: "Astronotus crassipinnis" ; Times: 1
+	Query: "Vandellia cirrhosa" ; Times: 1
+	Query: "Cheilopogon exsiliens" ; Times: 6
+	Query: "Microphilypnus ternetzi" ; Times: 1
+	Query: "Pseudostegophilus nemurus" ; Times: 2
+	Query: "parona signata" ; Times: 1
+	Query: "Decapterus macarellus" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 474 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
