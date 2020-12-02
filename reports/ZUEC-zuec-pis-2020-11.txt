@@ -1,0 +1,104 @@
+Report for Institution Code ZUEC, Resource zuec-pis
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 69
+Number of records retrieved in searches: 472
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 49
+	Country: United States ; Times: 7
+	Country: Venezuela ; Times: 6
+	Country: France ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-05 ; Times: 1
+	Date: 2020-11-19 ; Times: 1
+	Date: 2020-11-18 ; Times: 1
+	Date: 2020-11-26 ; Times: 1
+	Date: 2020-11-27 ; Times: 7
+	Date: 2020-11-15 ; Times: 3
+	Date: 2020-11-17 ; Times: 1
+	Date: 2020-11-16 ; Times: 1
+	Date: 2020-11-02 ; Times: 44
+	Date: 2020-11-10 ; Times: 2
+	Date: 2020-11-23 ; Times: 1
+	Date: 2020-11-24 ; Times: 1
+	Date: 2020-11-25 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Elops saurus" ; Times: 1
+	Query: "CATHOROPS SPIXII" ; Times: 1
+	Query: "Balistes capriscus" ; Times: 2
+	Query: "Dactylopterus volitans" ; Times: 1
+	Query: "Scomberoides lysan" ; Times: 1
+	Query: "Trachurus lathami" ; Times: 1
+	Query: "Mycteroperca rubra" ; Times: 2
+	Query: "Kyphosus incisor" ; Times: 1
+	Query: "scientificname:Gulo gulo" ; Times: 2
+	Query: "Acanthurus mata" ; Times: 1
+	Query: "Caranx latus" ; Times: 2
+	Query: "Osteoglossum bicirrhosum" ; Times: 1
+	Query: "Uraspis secunda" ; Times: 1
+	Query: "Cephalopholis fulva" ; Times: 2
+	Query: "Kyphosus sectatrix" ; Times: 2
+	Query: "Rineloricaria parva" ; Times: 1
+	Query: "Decapterus tabl" ; Times: 1
+	Query: "Trichiurus lepturus" ; Times: 2
+	Query: "Hemigrammus newboldi" ; Times: 1
+	Query: "Selene setapinnis" ; Times: 1
+	Query: "Selar crumenophthalmus" ; Times: 6
+	Query: "Oreochromis niloticus" ; Times: 1
+	Query: "Pomatomus saltatrix" ; Times: 3
+	Query: "ANABLEPSOIDES WAIMACUI" ; Times: 2
+	Query: "Trachinotus carolinus" ; Times: 1
+	Query: "Alectis ciliaris" ; Times: 1
+	Query: "Aluterus monoceros" ; Times: 1
+	Query: "Epinephelus marginatus" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "Apistogramma agassizii" ; Times: 2
+	Query: "Poecilia reticulata" ; Times: 3
+	Query: "Aetobatus narinari" ; Times: 3
+	Query: "Uraspis uraspis" ; Times: 1
+	Query: "Steindachnerina vari" ; Times: 1
+	Query: "Rhinoptera bonasus" ; Times: 2
+	Query: "Alopias vulpinus" ; Times: 1
+	Query: "Dentex dentex" ; Times: 1
+	Query: "Fistularia petimba" ; Times: 1
+	Query: "Echeneis naucrates" ; Times: 2
+	Query: "Tatia intermedia" ; Times: 1
+	Query: "Cheilopogon exsiliens" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 1
+	Query: "Remora osteochir" ; Times: 1
+	Query: "Haemomaster venezuelae" ; Times: 1
+	Query: "Decapterus macarellus" ; Times: 2
+	Query: "AEQUIDENS POTAROENSIS" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 842 download events in this period)
+Total number of records downloaded: 18
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Venezuela ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-17 ; Times: 1
+	Date: 2020-11-18 ; Times: 1
+	Date: 2020-11-13 ; Times: 1
+	Date: 2020-11-25 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "CATHOROPS SPIXII" ; Times: 1
+	Query: "ANABLEPSOIDES WAIMACUI" ; Times: 1
+	Query: "Hemigrammus newboldi" ; Times: 1
+	Query: "Steindachnerina vari" ; Times: 1
+	Query: "AEQUIDENS POTAROENSIS" ; Times: 1
+	Query: "vulpes vulpes" ; Times: 1
+
+
+End of report.
